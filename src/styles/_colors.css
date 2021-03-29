@@ -1,3 +1,8 @@
 :root {
-  /* Define your variable colors here */
+  --color-primary: #8e7755;
+  --color-secondary: #d8cb8f;
+  --color-background: hsla(56, 41%, 84%, 0.988);
+  --color-accent: #b79767;
+  --color-warning: #e6bf6d;
+  --header-footer-font-color: whitesmoke;
 }

@@ -1,0 +1,6 @@
+@import "/src/styles/_base.css";
+@import "/src/styles/_fonts.css";
+@import "/src/styles/_colors.css";
+
+/* Pages */
+@import "styles/pages/index.css";
